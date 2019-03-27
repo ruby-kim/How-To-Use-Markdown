@@ -5,7 +5,7 @@ Markdown Usage(How to use Markdown?)
 ## 1.1. What is Martdown?
 [**Markdown**](http://whatismarkdown.com/) was created in 2004 by the Markup Language-based text John Gruber and is easy to write and read and HTML transformable.  
 Using a very simple structure of grammar using special symbols and characters, content can be created and recognized more intuitively on the Web as well.  
-Markdown's recent rise to the limelight was thanks to [GitHub]((https://github.com).  
+Markdown's recent rise to the limelight was thanks to [GitHub](https://github.com).  
 README.md record information about the store Repository of the flagpole was the first mark-down document anyone using the flagpole would encounter.  
 Markdowns have become increasingly popular as the strength of simple recording of installation methods, source code descriptions, and issues is highlighted.
 
