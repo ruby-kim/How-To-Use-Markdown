@@ -261,5 +261,5 @@ Markdown documents stored in the dropbox are available on Dropbox Web services, 
 
 * Link Exampl: [Markdown](https://github.com/kimkyeongnam/How-To-Use-Markdown/edit/master/README.md)
 
-## ○ 참고문서
+## ○ Reference
 * [78 Tools for writing and previewing Markdown](http://mashable.com/2013/06/24/markdown-tools/)
