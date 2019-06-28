@@ -259,10 +259,7 @@ Available in the form of pasting items in the View area or recalling files gener
 Markdown is a markup language that can be written easily on a plain text editing machine if you know only basic grammar. It is now widely used because it is easier to create stylized documents because it is supported by a variety of tools and platforms. Understand and use the markdown and quickly create a style document.
 Markdown documents stored in the dropbox are available on Dropbox Web services, so they can be viewed directly from the web and used as a way to share links with others.
 
-* Link Example 예: [Markdown 설명](https://www.dropbox.com/s/1e7hbtd0yr0egft/20141021_markdown_use_tip.md?dl=0)
+* Link Exampl: [Markdown](https://github.com/kimkyeongnam/How-To-Use-Markdown/edit/master/README.md)
 
 ## ○ 참고문서
 * [78 Tools for writing and previewing Markdown](http://mashable.com/2013/06/24/markdown-tools/)
-* [John gruber 마크다운 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)
-* [깃허브 취향의 마크다운 번역](http://nolboo.github.io/blog/2014/03/25/github-flavored-markdown/)
-* [허니몬의 마크다운 작성법](http://www.slideshare.net/ihoneymon/ss-40575068)
